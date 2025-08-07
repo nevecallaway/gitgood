@@ -8,4 +8,6 @@ A new file for the git workshop with Adam.
 - git status
 - git add
 - git log
-- ...
+- git remote
+
+This change was made on github.
