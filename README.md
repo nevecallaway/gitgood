@@ -11,3 +11,5 @@ A new file for the git workshop with Adam.
 - git remote
 
 This change was made on github.
+
+This line was added locally
