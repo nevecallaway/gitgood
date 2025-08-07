@@ -13,3 +13,4 @@ A new file for the git workshop with Adam.
 This change was made on github.
 
 This line was added locally.
+This is a second remote change made on github.
